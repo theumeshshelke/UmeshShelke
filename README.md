@@ -46,6 +46,6 @@ A model that detects fake product reviews using LSTM and CNNs.
 
 ## 📫 Connect With Me
 
-- GitHub: [github.com/umesh-shelke](https://github.com/umesh-shelke)
+- GitHub: [github.com/theumeshshelke](https://github.com/theumeshshelke)
 - Email: `yourmail@example.com`
 
